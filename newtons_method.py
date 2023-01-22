@@ -197,6 +197,30 @@ newtons_method.py [unix] (17:03 22/01/2023)                                     
 newtons_method.py [unix] (17:04 22/01/2023)                                                                           175,0-1 Bot
 "newtons_method.py" [unix] 181L, 5471B
 
+newtons_method.py [unix] (17:00 22/01/2023)                                                                            85,0-1 Bot
+"newtons_method.py" [unix] 85L, 1825B
+
+newtons_method.py [unix] (17:02 22/01/2023)                                                                           109,0-1 Bot
+"newtons_method.py" [unix] 109L, 2582B
+
+newtons_method.py [unix] (17:02 22/01/2023)                                                                           133,0-1 Bot
+"newtons_method.py" [unix] 133L, 3424B
+
+newtons_method.py [unix] (17:03 22/01/2023)                                                                           157,0-1 Bot
+"newtons_method.py" [unix] 157L, 4399B
+
+newtons_method.py [unix] (17:04 22/01/2023)                                                                           175,0-1 Bot
+"newtons_method.py" [unix] 181L, 5471B
+
+newtons_method.py [unix] (17:02 22/01/2023)                                                                           133,0-1 Bot
+"newtons_method.py" [unix] 133L, 3424B
+
+newtons_method.py [unix] (17:03 22/01/2023)                                                                           157,0-1 Bot
+"newtons_method.py" [unix] 157L, 4399B
+
+newtons_method.py [unix] (17:05 22/01/2023)                                                                           199,0-1 Bot
+"newtons_method.py" [unix] 205L, 6594B
+
 newtons_method.py [unix] (17:02 22/01/2023)                                                                           133,0-1 Bot
 "newtons_method.py" [unix] 133L, 3424B
 
