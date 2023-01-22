@@ -173,6 +173,30 @@ newtons_method.py [unix] (17:00 22/01/2023)                                     
 newtons_method.py [unix] (17:02 22/01/2023)                                                                           109,0-1 Bot
 "newtons_method.py" [unix] 109L, 2582B
 
+    except ZeroDivisionError as error:
+        print(str(error))
+
+
+if __name__ == "__main__":
+    main()
+newtons_method.py [unix] (16:59 22/01/2023)                                                                             61,10 Bot
+"newtons_method.py" [unix] 61L, 1183B
+
+newtons_method.py [unix] (17:00 22/01/2023)                                                                            85,0-1 Bot
+"newtons_method.py" [unix] 85L, 1825B
+
+newtons_method.py [unix] (17:02 22/01/2023)                                                                           109,0-1 Bot
+"newtons_method.py" [unix] 109L, 2582B
+
+newtons_method.py [unix] (17:02 22/01/2023)                                                                           133,0-1 Bot
+"newtons_method.py" [unix] 133L, 3424B
+
+newtons_method.py [unix] (17:03 22/01/2023)                                                                           157,0-1 Bot
+"newtons_method.py" [unix] 157L, 4399B
+
+newtons_method.py [unix] (17:04 22/01/2023)                                                                           175,0-1 Bot
+"newtons_method.py" [unix] 181L, 5471B
+
 newtons_method.py [unix] (17:02 22/01/2023)                                                                           133,0-1 Bot
 "newtons_method.py" [unix] 133L, 3424B
 
