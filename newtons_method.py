@@ -131,3 +131,27 @@ newtons_method.py [unix] (17:00 22/01/2023)                                     
 newtons_method.py [unix] (17:02 22/01/2023)                                                                           109,0-1 Bot
 "newtons_method.py" [unix] 109L, 2582B
 
+    try:
+        solution_newton = newtons_method(f, df, initial_guess)
+        fx_newton = f(solution_newton)
+
+        print("x = {:.4f} | f(x) = {:.4f}".format(solution_newton, fx_newton))
+
+    except ZeroDivisionError as error:
+        print(str(error))
+
+
+if __name__ == "__main__":
+    main()
+newtons_method.py [unix] (16:59 22/01/2023)                                                                             61,10 Bot
+"newtons_method.py" [unix] 61L, 1183B
+
+newtons_method.py [unix] (17:00 22/01/2023)                                                                            85,0-1 Bot
+"newtons_method.py" [unix] 85L, 1825B
+
+newtons_method.py [unix] (17:02 22/01/2023)                                                                           109,0-1 Bot
+"newtons_method.py" [unix] 109L, 2582B
+
+newtons_method.py [unix] (17:02 22/01/2023)                                                                           133,0-1 Bot
+"newtons_method.py" [unix] 133L, 3424B
+
